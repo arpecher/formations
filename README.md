@@ -211,6 +211,11 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - Formation [télécommunications](https://enseirb-matmeca.bordeaux-inp.fr/fr/telecommunications)
 - Formation [réseaux et systèmes d'information](https://enseirb-matmeca.bordeaux-inp.fr/fr/reseaux-et-systemes-d-information)
 
+#### [IUT de Bordeaux](https://www.iut.u-bordeaux.fr/general/)
+- [DUT informatique](http://www.iut.u-bordeaux.fr/info/)
+- [Licence professionnelle : Développement d’applications et gestion de projet informatique](https://www.iut.u-bordeaux.fr/info/#postL2)
+- [Licence professionnelle : Développement en applications web et innovations numériques](https://www.iut.u-bordeaux.fr/info/#postL2)
+
 ### Limoges
 
 #### [IUT du Limousin](https://www.iut.unilim.fr/)
